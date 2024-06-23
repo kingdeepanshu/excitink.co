@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/githud.io/excitink.co/static/css/main.48586e40.css",
+    "main.js": "/githud.io/excitink.co/static/js/main.20eaf220.js",
+    "static/media/hero.png": "/githud.io/excitink.co/static/media/hero.f30b02300b62a7de13e3.png",
+    "static/media/brands.png": "/githud.io/excitink.co/static/media/brands.353f2a07cb345bc6fae5.png",
+    "index.html": "/githud.io/excitink.co/index.html",
+    "main.48586e40.css.map": "/githud.io/excitink.co/static/css/main.48586e40.css.map",
+    "main.20eaf220.js.map": "/githud.io/excitink.co/static/js/main.20eaf220.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48586e40.css",
+    "static/js/main.20eaf220.js"
+  ]
+}
