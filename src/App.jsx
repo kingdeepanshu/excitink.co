@@ -12,9 +12,9 @@ function App() {
     <div className="App">
       <Navbar/>
       <HeroPage/>
-      <Newarr />
-      <TopSelling/>
-      <Category/>
+{/*       <Newarr /> */}
+{/*       <TopSelling/> */}
+      // <Category/>
       {/* <Testimonials/> */}
       <Footer/>
     </div>
